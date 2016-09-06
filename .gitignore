@@ -1,0 +1,8 @@
+/bin/
+/geo
+/tweets
+/results
+/.idea
+*.iml
+.project
+.classpath
